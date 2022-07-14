@@ -3,3 +3,5 @@
 ## Installation
 ### Cloning the repository:
 - Clone the repository using `git clone https://github.com/Pranay922/Sorting-Visualiser.git` .
+## Start the application 
+- Run `start "" "index.html"`
